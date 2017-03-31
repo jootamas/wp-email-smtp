@@ -1,8 +1,8 @@
-##Send emails with SMTP in WordPress
+## Send emails with SMTP in WordPress
 
 This is a simple WordPress plugin for send emails with (external) SMTP server.
 
-###Usage
+### Usage
 
 1. Activate plugin
 2. Fill it SMTP connect parameters
